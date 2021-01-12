@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #756ae5;
+}
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container .h1 {
+  text-align: center;
+}
+.btn button {
+  height: 55px;
+  border: none;
+  width: 75px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 15px;
+}
